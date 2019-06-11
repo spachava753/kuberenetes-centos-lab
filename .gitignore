@@ -12,5 +12,6 @@
 ### Vagrant Patch ###
 *.box
 
+config
 # End of https://www.gitignore.io/api/vagrant
 
