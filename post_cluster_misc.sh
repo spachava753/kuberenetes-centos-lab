@@ -3,3 +3,4 @@ kubectl --kubeconfig=config get nodes
 kubectl --kubeconfig=config get po
 kubectl --kubeconfig=config get po -A
 kubectl --kubeconfig=config get po -A -o wide
+export KUBECONFIG="./config"
